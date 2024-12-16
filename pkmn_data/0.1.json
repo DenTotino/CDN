@@ -16912,7 +16912,7 @@
     "is_paradox": false
   },
   {
-    "pokeapi_id": 10006,
+    "pokeapi_id": 492,
     "name": "SHAYMIN LAND FORM",
     "type1": "grass",
     "type2": "",
@@ -16940,13 +16940,13 @@
     "is_paradox": false
   },
   {
-    "pokeapi_id": 10007,
+    "pokeapi_id": 10006,
     "name": "SHAYMIN SKY FORM",
     "type1": "grass",
     "type2": "flying",
     "generation": 4,
-    "is_legendary": true,
-    "is_mythical": false,
+    "is_legendary": false,
+    "is_mythical": true,
     "is_baby": false,
     "is_hisuian": false,
     "is_mega": false,
@@ -16961,7 +16961,7 @@
     "is_one_gender": false,
     "gender_majority": "",
     "has_gender_differences": false,
-    "species_id": 487,
+    "species_id": 492,
     "is_fossil": false,
     "is_evolve_by_friendship": false,
     "is_evolve_by_trade": false,
